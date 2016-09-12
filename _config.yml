@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /dansha
+exclude: ['README.md']
